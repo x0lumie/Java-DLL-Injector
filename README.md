@@ -3,4 +3,4 @@
  [![License](https://img.shields.io/github/license/x0lumie/Java-DLL-Injector?style=for-the-badge)](LICENSE)
 
  A Java-based DLL injector for apps and games. Uses Swing for GUI and JNA for Windows API calls.
- <img width="800" src="https://raw.githubusercontent.com/x0lumie/Simp/main/image.png">
+ <img width="800" src="https://raw.githubusercontent.com/x0lumie/Java-DLL-Injector/main/image.png">
