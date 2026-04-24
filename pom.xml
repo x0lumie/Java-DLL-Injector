@@ -43,7 +43,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.injector.Main</mainClass>
+                            <mainClass>dev.lumie.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
